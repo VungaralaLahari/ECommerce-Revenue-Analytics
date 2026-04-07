@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+1,"iPhone 14",Electronics,79999
+2,"Samsung Galaxy S23",Electronics,69999
+3,"Sony Headphones",Electronics,8999
+4,"HP Laptop",Electronics,55000
+5,"Apple Watch",Electronics,35000
+6,"Nike Running Shoes",Footwear,4999
+7,"Adidas Sneakers",Footwear,3999
+8,"Puma Sports Shoes",Footwear,2999
+9,"Levis Jeans",Clothing,2999
+10,"Zara Formal Shirt",Clothing,1999
+11,"H&M Dress",Clothing,2499
+12,"Allen Solly Trousers",Clothing,1799
+13,"Air Fryer",Appliances,5999
+14,"Rice Cooker",Appliances,2500
+15,"Electric Kettle",Appliances,1299
+16,"Mixer Grinder",Appliances,3499
+17,"Python Book",Books,799
+18,"Data Science Book",Books,999
+19,"SQL Masterclass Book",Books,699
+20,"Machine Learning Book",Books,1199
